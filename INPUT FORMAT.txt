@@ -1,0 +1,16 @@
+{number of states} {number of transitions}
+{state} {state} {weight of connection - letter or #}
+{state} {state} {weight of connection - letter or #}
+.
+.
+.
+{state} {state} {weight of connection - letter or #}
+{start state}
+{number of end states} {ID of end states}
+{number of words to be tested}
+{1st_word}
+{2nd_word}
+.
+.
+.
+{final_word}
